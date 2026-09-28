@@ -1,11 +1,5 @@
 <div align="center">
 
-# Hi, I'm fecset 👋
-
-### .NET Developer
-
-Building desktop applications and learning software architecture.
-
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,laravel,js,figma,git,github,visualstudio,vscode&theme=dark)](https://skillicons.dev)
@@ -33,23 +27,6 @@ public class Developer
 }
 ```
 
-I'm currently focused on **C# and .NET**, building desktop applications and improving my understanding of software architecture.
-
-I also have experience with **Laravel, JavaScript and Figma**.
-
----
-
-### 🚀 Featured Project
-
-<a href="https://github.com/fecset/zapret-desktop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fecset&repo=zapret-desktop&theme=github_dark&hide_border=true" />
-</a>
-
-**Zapret Desktop** — desktop application for managing Zapret on Windows.
-
-`C#` · `.NET 10` · `Avalonia 12` · `Windows`
-
----
 
 ### 📊 GitHub
 
@@ -69,10 +46,4 @@ I also have experience with **Laravel, JavaScript and Figma**.
 
 </div>
 
----
 
-<div align="center">
-
-### `Build → Break → Understand → Improve`
-
-</div>
