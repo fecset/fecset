@@ -2,7 +2,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,laravel,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=laravel,html,sass,js&theme=dark)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 
