@@ -1,4 +1,5 @@
 <div align="center">
+---
     
 ### 🔧 Skills
 
@@ -30,8 +31,8 @@ public class Developer
 
     public string CurrentlyBuilding => "Zapret Desktop";
 }
-```
 
+```
 
 ### 📊 GitHub
 
