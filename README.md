@@ -23,8 +23,7 @@ public class Developer
     [
         "C# & .NET",
         "Desktop Development",
-        "Application Architecture",
-        "Networking"
+        "Application Architecture"
     ];
 
     public string CurrentlyBuilding => "Zapret Desktop";
